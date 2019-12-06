@@ -1,27 +1,27 @@
 # Site settings
-title: Chisaka's Blog # 你的博客名字，可以定义修订
+title: 废萌的理想乡 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "欢迎来到Chisaka的小站↖(^ω^)↗"  # 一句话描述你的博客
+description: "为了实现个人在现实中不存在的个人真实"  # 一句话描述你的博客
 baseurl: ""
-url: "http://chisakaow.github.io"  # 此处填写你的博客地址 
+url: "http://freemoe.github.io"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
-  name: "Chisaka" # 填写作者信息：名字
-  email: chisaka.ms@gmail.com # 填写作者信息：邮箱
-  bio: "你的博客描述" # 填写作者信息：博客描述
+  name: "freemoe" # 填写作者信息：名字
+  email: ye13892447746@gmail.com # 填写作者信息：邮箱
+  bio: "实锤KY 喜欢音乐~虽然是个内向性格但是想和认识的人相处的很好" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
-twitter_username: chisakaow
-github_username: chisakaow
+twitter_username: @freemooe
+github_username: freemooe
 facebook_username: 
 weibo_username: 
-zhihu_username: chisaka
+zhihu_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Chisaka" # 你的名字
+      author: "freemoe" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
